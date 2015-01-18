@@ -1,3 +1,4 @@
-#[test]
-fn it_works() {
-}
+// Setup our tests
+#[cfg(test)]
+mod tests;
+
